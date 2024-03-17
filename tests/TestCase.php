@@ -2,9 +2,9 @@
 
 namespace Ajellender\LaravelNestedSet\Tests;
 
+use Ajellender\LaravelNestedSet\LaravelNestedSetServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use Ajellender\LaravelNestedSet\LaravelNestedSetServiceProvider;
 
 class TestCase extends Orchestra
 {

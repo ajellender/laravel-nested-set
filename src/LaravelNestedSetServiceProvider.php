@@ -2,9 +2,9 @@
 
 namespace Ajellender\LaravelNestedSet;
 
+use Ajellender\LaravelNestedSet\Commands\LaravelNestedSetCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use Ajellender\LaravelNestedSet\Commands\LaravelNestedSetCommand;
 
 class LaravelNestedSetServiceProvider extends PackageServiceProvider
 {
