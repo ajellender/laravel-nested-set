@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Ajellender\LaravelNestedSet\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class LaravelNestedSetCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-nested-set';
 
     public $description = 'My command';
 
